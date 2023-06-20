@@ -3,7 +3,7 @@
   "npmScope": "verchjames",
   "tasksRunnerOptions": {
     "default": {
-      "runner": "nx-cloud",
+      "runner": "nx/tasks-runners/default",
       "options": {
         "cacheableOperations": ["build", "lint", "test", "e2e"],
         "accessToken": "ZjA3YzJhZWYtOGIyYy00MGE4LTk0NDctZjFiYTRmZDg0MDkxfHJlYWQtd3JpdGU="
